@@ -11,6 +11,8 @@ public class Program {
 		int m;
 		int n;
 		
+		
+		System.out.println("*** TESTE GITHUB ***");
 		System.out.print("Digite os parâmetros da matriz: ");
 		m = sc.nextInt();
 		n = sc.nextInt();
